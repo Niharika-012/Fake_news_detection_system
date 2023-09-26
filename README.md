@@ -13,5 +13,5 @@ Libraries such as scikit-learn, Pandas, and NLTK for natural language processing
 Google Colab for code development and documentation.
 
 Achievements:
-Successfully trained a machine learning model with an accuracy rate of [mention the accuracy rate] in differentiating between genuine and fake news articles.
+Successfully trained a machine learning model with an accuracy score of 97.4 in differentiating between genuine and fake news articles.
 The system demonstrated its effectiveness in identifying misleading information and could potentially contribute to media literacy efforts.
